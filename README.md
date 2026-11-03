@@ -1,20 +1,45 @@
-Hi, I'm Chris! 👋 🇳🇱
+# Hi, I'm Chris 👋 🇳🇱
 
-I'm an independent software developer based in the Netherlands and the founder of **[MayPixels Studio](https://maypixels.com/)**. I built **[MayOnlineTools (MoT)](https://mayonlinetools.com/)** and the MayPixels software ecosystem out of a passion for blisteringly fast web technology, privacy-first software, and 100% client-side computing.
+**Founder & Lead Engineer at [MayPixels Studio](https://maypixels.com/)** · Independent Digital Product Studio based in the Netherlands.
 
-### 💡 What I'm Building Under MayPixels
-Under the **[MayPixels](https://maypixels.com/)** studio umbrella, I build standalone, zero-backend web applications designed to eliminate server bloat, paywalls, and privacy risks — starting with our flagship platform **[MayOnlineTools.com](https://mayonlinetools.com/)** (183+ browser utilities, a 24-step Tool Chain & Pipeline Builder, 6 local WebGPU AI models, and 67 technical master runbooks) and upcoming standalone apps:
+I design and engineer blisteringly fast, **100% client-side web applications**, developer utilities, and on-device **WebGPU AI** experiences — built with zero backend databases, zero user tracking, and full offline Progressive Web App (PWA) support.
 
-- 🔒 **100% Client-Side & Zero Telemetry:** Every conversion, hash, regex test, file transformation, and AI inference executes locally on your machine via JavaScript, Web Workers, WebAssembly & WebGPU.
-- ⚡ **Zero Network Latency & Offline-Ready (PWA):** Instant in-browser results without waiting for round-trip server requests, working 100% offline.
-- 📚 **Production Runbooks:** Authoritative technical masterclasses covering Docker, Linux, SQL indexing, DNSSEC, WebGPU AI, and Zod data validation.
+---
 
-### 💖 Why Sponsor Me?
-There is no mega-corporation, venture capital fund, or data-broker behind MayPixels or MayOnlineTools. Everything is a 100% independent passion project built for real developers, sysadmins, and students.
+### 🏛️ Parent Studio — [MayPixels.com](https://maypixels.com/)
+**[MayPixels](https://maypixels.com/)** is my independent European software studio and multi-store application publisher. Every standalone product released under the MayPixels crown shares one strict architectural covenant: **100% local in-browser execution with zero server uploads**.
 
-Your sponsorship directly helps to:
-- Cover domain registrations (`maypixels.com` & `mayonlinetools.com`), SSL/DNSSEC, multi-store publishing, and high-performance edge CDN infrastructure.
-- Keep all tools, standalone apps, and runbooks 100% free and free of invasive data tracking.
-- Dedicate continuous development time to creating new client-side applications, tools, and deep technical guides.
+---
 
-Thank you so much for your support! Even a small sponsorship makes a genuine difference in keeping the indie web alive and private. ☕
+### 🚀 Studio Portfolio & Live Releases
+
+#### 01 / [MayOnlineTools (MoT)](https://mayonlinetools.com/) — *Live Production (v2.9)*
+> *"Online by link. 100% Offline by design."*
+
+An all-in-one, privacy-first utility ecosystem for developers, sysadmins, and everyday productivity:
+- 🧰 **183+ Client-Side Utilities:** Calculators, data & schema converters, cryptographic hashers, formatters, and visual CSS/SVG generators.
+- ⛓️ **24-Step Tool Chain & Pipeline Builder:** Automate multi-step data transformations locally in the browser.
+- 🤖 **[Local AI Studio (`/ai/`)](https://mayonlinetools.com/ai/):** 6 on-device neural models (Whisper Speech-to-Text, MODNet Background Removal, Qwen2.5 LLM, BART Summarization, ViT Image Captioning & Sentiment Analysis) powered by **WebGPU & WebAssembly**.
+- 🎓 **[Educational Hub (`/hub/`)](https://mayonlinetools.com/hub/):** 67 master engineering runbooks & cheat sheets covering Linux, Docker, Kubernetes, SQL indexing, DNSSEC, and modern web architecture.
+- 📦 **Official Multi-Store Availability:**
+  - 🌐 **Web App (PWA):** [mayonlinetools.com](https://mayonlinetools.com/)
+  - 🪟 **Microsoft Store (Windows 10/11):** [Download MoT on Microsoft Store](https://apps.microsoft.com/detail/9N1W1Q4P27W8)
+  - 📦 **Amazon Appstore (Android & Fire OS):** [Download MoT on Amazon Appstore](https://www.amazon.com/gp/product/B0HPYHJJ4G)
+
+#### 02 / Upcoming MayPixels Applications — *In Active Development*
+- Dedicated standalone micro-apps and local-first utilities currently being engineered under the **[MayPixels](https://maypixels.com/#ecosystem)** umbrella.
+
+---
+
+### 🛠️ Core Engineering Stack & Architecture
+- **Frontend & SSG:** Astro, Vue 3 (Composition API `<script setup lang="ts">`), TypeScript, Tailwind CSS
+- **Client-Side Compute:** Web Workers, WebAssembly (WASM / ONNX Runtime), W3C WebGPU, HTML5 Canvas, Service Worker CacheStorage
+- **Edge & Security:** Cloudflare Pages, TLS 1.3 / HSTS Preload, DNSSEC, strict Content Security Policy (CSP), Grade A+ SSL Labs
+
+---
+
+### 📬 Connect & Support
+- 🌐 **Studio Website:** [https://maypixels.com](https://maypixels.com/)
+- 🛠️ **Flagship Product:** [https://mayonlinetools.com](https://mayonlinetools.com/)
+- ✉️ **Contact:** [contact@maypixels.com](mailto:contact@maypixels.com)
+- ☕ **Support Independent Development:** [GitHub Sponsors](https://github.com/sponsors/chriscm1995) · [Ko-fi (`ko-fi.com/maypixels`)](https://ko-fi.com/maypixels)
