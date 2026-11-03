@@ -1,37 +1,20 @@
-# Hi there, I'm Chris 👋 🇳🇱
+Hi, I'm Chris! 👋 🇳🇱
 
-I'm an independent software developer and tech enthusiast based in the Netherlands. I believe everyday developer and productivity tools should be blisteringly fast, completely free, and 100% private.
+I'm an independent software developer based in the Netherlands and the founder of **[MayPixels Studio](https://maypixels.com/)**. I built **[MayOnlineTools (MoT)](https://mayonlinetools.com/)** and the MayPixels software ecosystem out of a passion for blisteringly fast web technology, privacy-first software, and 100% client-side computing.
 
----
+### 💡 What I'm Building Under MayPixels
+Under the **[MayPixels](https://maypixels.com/)** studio umbrella, I build standalone, zero-backend web applications designed to eliminate server bloat, paywalls, and privacy risks — starting with our flagship platform **[MayOnlineTools.com](https://mayonlinetools.com/)** (183+ browser utilities, a 24-step Tool Chain & Pipeline Builder, 6 local WebGPU AI models, and 67 technical master runbooks) and upcoming standalone apps:
 
-### 🚀 Featured Project: [MayOnlineTools.com](https://mayonlinetools.com)
-
-A free, privacy-first platform featuring a continuously growing collection of in-browser utilities, client-side AI models, and technical master runbooks.
-
-- 🔒 **Zero Server Telemetry**: Everything computes 100% locally on your machine via WebAssembly & WebGPU.
-- ⚡ **Blisteringly Fast**: Instant execution with zero round-trip network latency.
-- 📚 **Production Runbooks**: Authoritative guides covering Docker, Linux, SQL optimization, DNSSEC, and Zod data validation.
-
----
-
-### 🛠️ Tech Stack & Focus
-
-- **Frontend & SSG**: Astro, Vue 3 (Composition API), TypeScript, Tailwind CSS
-- **Local Computing**: WebAssembly (WASM), WebGPU, Web Workers, Transformers.js
-- **Engineering Philosophy**: Zero-bloat, privacy-by-design, accessible UI (Google Material Design 3)
-
----
+- 🔒 **100% Client-Side & Zero Telemetry:** Every conversion, hash, regex test, file transformation, and AI inference executes locally on your machine via JavaScript, Web Workers, WebAssembly & WebGPU.
+- ⚡ **Zero Network Latency & Offline-Ready (PWA):** Instant in-browser results without waiting for round-trip server requests, working 100% offline.
+- 📚 **Production Runbooks:** Authoritative technical masterclasses covering Docker, Linux, SQL indexing, DNSSEC, WebGPU AI, and Zod data validation.
 
 ### 💖 Why Sponsor Me?
+There is no mega-corporation, venture capital fund, or data-broker behind MayPixels or MayOnlineTools. Everything is a 100% independent passion project built for real developers, sysadmins, and students.
 
-Maintaining and expanding MayOnlineTools is an independent passion project. Your sponsorship directly helps with:
-- Domain registrations & high-performance edge infrastructure
-- Keeping all tools 100% free and free of invasive ad-trackers
-- Continuous development of new client-side tools and deep technical runbooks
+Your sponsorship directly helps to:
+- Cover domain registrations (`maypixels.com` & `mayonlinetools.com`), SSL/DNSSEC, multi-store publishing, and high-performance edge CDN infrastructure.
+- Keep all tools, standalone apps, and runbooks 100% free and free of invasive data tracking.
+- Dedicate continuous development time to creating new client-side applications, tools, and deep technical guides.
 
-[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/chriscm1995)
-[![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-Donate-ff5e5b?style=for-the-badge&logo=kofi)](https://ko-fi.com/mayonlinetools)
-
----
-
-📫 **Get in Touch**: [contact@mayonlinetools.com](mailto:contact@mayonlinetools.com) • [mayonlinetools.com](https://mayonlinetools.com)
+Thank you so much for your support! Even a small sponsorship makes a genuine difference in keeping the indie web alive and private. ☕
