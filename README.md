@@ -13,12 +13,12 @@ I design and engineer blisteringly fast, **100% client-side web applications**, 
 
 ### 🚀 Studio Portfolio & Live Releases
 
-#### 01 / [MayOnlineTools (MoT)](https://mayonlinetools.com/) — *Live Production (v2.9)*
+#### 01 / [MayOnlineTools (MoT)](https://mayonlinetools.com/) — *Live Production*
 > *"Online by link. 100% Offline by design."*
 
 An all-in-one, privacy-first utility ecosystem for developers, sysadmins, and everyday productivity:
-- 🧰 **183+ Client-Side Utilities:** Calculators, data & schema converters, cryptographic hashers, formatters, and visual CSS/SVG generators.
-- ⛓️ **24-Step Tool Chain & Pipeline Builder:** Automate multi-step data transformations locally in the browser.
+- 🧰 **Client-Side Utilities:** Calculators, data & schema converters, cryptographic hashers, formatters, and visual CSS/SVG generators.
+- ⛓️ **Tool Chain & Pipeline Builder:** Automate multi-step data transformations locally in the browser.
 - 🤖 **[Local AI Studio (`/ai/`)](https://mayonlinetools.com/ai/):** 6 on-device neural models (Whisper Speech-to-Text, MODNet Background Removal, Qwen2.5 LLM, BART Summarization, ViT Image Captioning & Sentiment Analysis) powered by **WebGPU & WebAssembly**.
 - 🎓 **[Educational Hub (`/hub/`)](https://mayonlinetools.com/hub/):** 67 master engineering runbooks & cheat sheets covering Linux, Docker, Kubernetes, SQL indexing, DNSSEC, and modern web architecture.
 - 📦 **Official Multi-Store Availability:**
