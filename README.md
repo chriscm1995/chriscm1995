@@ -16,10 +16,10 @@ I design and engineer fast, 100% client-side web applications, developer utiliti
 
 #### 01 / [MayOnlineTools (MoT)](https://mayonlinetools.com/) — Live Production
 *"Online by link. 100% Offline by design."* An all-in-one, privacy-first utility ecosystem for developers, sysadmins, and everyday productivity:
-- 🧰 **235+ Client-Side Utilities**: Calculators, data & schema converters, cryptographic hashers, formatters, and visual CSS/SVG generators.
+- 🧰 **Client-Side Utilities**: Calculators, data & schema converters, cryptographic hashers, formatters, and visual CSS/SVG generators.
 - ⛓️ **Tool Chain & Pipeline Builder**: Connect and automate multi-step data transformations directly inside your browser sandbox.
-- 🤖 **[Local AI Studio (`/ai/`)](https://mayonlinetools.com/ai/)**: 7 on-device neural suites (Whisper Speech-to-Text, MODNet Background Removal, Qwen LLM, BART Summarization, ViT Image Captioning, Sentiment Analysis & MarianMT Neural Translation) accelerated locally via WebGPU & WebAssembly.
-- 🎓 **[Educational Hub (`/hub/`)](https://mayonlinetools.com/hub/)**: 87 engineering runbooks, cheat sheets, and technical guides covering Linux, Docker, Kubernetes, SQL indexing, DNSSEC, and Core Web Vitals.
+- 🤖 **[Local AI Studio (`/ai/`)](https://mayonlinetools.com/ai/)**: On-device neural suites (Whisper Speech-to-Text, MODNet Background Removal, Qwen LLM, BART Summarization, ViT Image Captioning, Sentiment Analysis & MarianMT Neural Translation) accelerated locally via WebGPU & WebAssembly.
+- 🎓 **[Educational Hub (`/hub/`)](https://mayonlinetools.com/hub/)**: Master engineering runbooks, cheat sheets, and technical guides covering Linux, Docker, Kubernetes, SQL indexing, DNSSEC, and Core Web Vitals.
 
 **Official Distribution:**
 - 🌐 **Web App (PWA)**: [mayonlinetools.com](https://mayonlinetools.com/)
@@ -28,8 +28,8 @@ I design and engineer fast, 100% client-side web applications, developer utiliti
 
 #### 02 / [MayBrain](https://maypixels.com/maybrain/) — Cognitive Learning & Brain Gym (Live PWA)
 *"Daily cognitive agility. 100% client-side."* A Duolingo-inspired, zero-distraction educational and cognitive training platform engineered with zero paywalls, zero accounts, and 100% local progress storage:
-- 🧭 **Structured Learning Path**: 5-unit mastery track (20 lessons + Guidebooks) across *Deductive Logic*, *Pattern Recognition*, *Working Memory & Focus*, *Mental Math & Probability*, and *Lateral Thinking & Ciphers*.
-- 🧠 **Brain Gym & 1% Club Ladder**: Adaptive daily brain workouts, 5 Core Cognitive Pillars, Science Reads, and the progressive *1% Lateral Thinking Ladder*.
+- 🧭 **Structured Learning Path**: Guided mastery units & interactive Guidebooks across *Deductive Logic*, *Pattern Recognition*, *Working Memory & Focus*, *Mental Math & Probability*, and *Lateral Thinking & Ciphers*.
+- 🧠 **Brain Gym & 1% Club Ladder**: Adaptive daily brain workouts, Core Cognitive Pillars, Science Reads, and the progressive *1% Lateral Thinking Ladder*.
 - ⚡ **Executive Cognitive Drills**: Science-backed *Memory Matrix*, *Dual N-Back*, and *Stroop Blitz* labs.
 - 🌐 **Live Web & PWA App**: [maypixels.com/maybrain/](https://maypixels.com/maybrain/)
 
